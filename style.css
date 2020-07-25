@@ -1,0 +1,32 @@
+body{
+        text-align: center;
+        margin-top: 160px;
+        margin-left: 320px ;
+        margin-right: 320px ;
+        background-image: url("img.jpg");
+    }
+
+#todo{
+    background-color: bisque;
+    
+}
+
+#clr{
+    color: blueviolet;
+}
+    
+#todo-item{
+    height: 20px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+@media only screen and (max-width: 1000px) {
+
+    body{
+   
+}
+
+}
